@@ -1,0 +1,9 @@
+1.function of secondary memory of a computer:(c) Store information for the long term, even beyond a power cycle.
+2.A set of instructions that specifies a computation
+3.A compiler translates a program written in high level language into low level language all at once, in preparation for later execution. Whereas Interpreter executes a program written in high level language by translating it one line at a time.
+4.The python interpreter translates the high level code to machine code.
+5.Instead of using "print" function the code has "primt"
+6.(c)Main memory holds the value of the variable while the program executes.
+7.44
+8.1)Central Processing Unit-Brain,2)Main Memory-RAM,3)Secondary Memory-Hard Disk,4)Input Device-Keyboard,5)Output Device-Monitor
+9.By following the Grammar rules of Python language, one can avoid syntax errors.
